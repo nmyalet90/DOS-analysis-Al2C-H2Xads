@@ -64,7 +64,7 @@ The increase in the energy gap means the electrical conductivity decreases. Beca
 
 
 
-📚 Citation
+## 📚 Citation
 
 If you use or reference this project, please cite the related article:
 
@@ -73,7 +73,7 @@ A density functional theory research on the interaction of H₂X molecules with 
 Next Materials, Volume 4, July 2024, 100114.
 https://doi.org/10.1016/j.nxmate.2024.100114
 
-👤 Author
+## 👤 Author
 
 Nahuel Moreno Yalet, Víctor Ranea 
 
