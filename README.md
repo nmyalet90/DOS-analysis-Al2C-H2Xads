@@ -43,25 +43,25 @@ The following systems were analyzed:
 - The band gap for each configuration is included in the legend of each plot.
 - The X-axis is limited to -1 eV to 2 eV to focus on the region around the Fermi level.
 
-## 🖼️ Example Output
+## 🖼️ DOS Comparison Plot
+
+![DOS Comparison](dos_plot.png)
 
 Each subplot includes:
 - Solid line: DOS of H₂X adsorbed on Al₂C
 - Dashed line: DOS of dissociated HX-H configuration on Al₂C 
 - Black line: DOS of clean Al₂C
-
+- The band gap values for each configuration are shown in the legend
 
 ## ⚙️ Requirements
 
 - Python ≥ 3.8
 - matplotlib
 
-
 ## 🧠 Conclusions
 
 The calculated energy gap for the pristine Al₂C nanosheet is 1.078 eV. However, it increases significantly to 1.371, 1.338, 1.379 and 1.416 eV for molecular adsorption (H₂O, H₂S, H₂Se and H₂Te, respectively) and to 1.209, 1.363, 1.370 and 1.388 eV for partial dissociative adsorption.
 The increase in the energy gap means the electrical conductivity decreases. Because the conductivity can be measure by sensors, these results could be considered as an indication that the Al₂C nanosheet has a potential use as a sensor for these molecules in molecular or dissociated state. However, experiments and experimental results are needed in order to reach definitive conclusions.
-
 
 
 ## 📚 Citation
