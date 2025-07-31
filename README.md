@@ -56,10 +56,6 @@ Each subplot includes:
 - Python ≥ 3.8
 - matplotlib
 
-Install dependencies:
-
-```bash
-pip install matplotlib
 
 ## 🧠 Conclusions
 
